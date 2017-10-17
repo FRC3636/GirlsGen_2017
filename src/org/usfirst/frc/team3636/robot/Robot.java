@@ -24,6 +24,7 @@ import org.usfirst.frc.team3636.robot.subsystems.ExampleSubsystem;
  * directory.
  */
 public class Robot extends IterativeRobot {
+	/*CHANGED FROM DANA */
 
     public static final ExampleSubsystem exampleSubsystem = new ExampleSubsystem();
     public static OI oi;
